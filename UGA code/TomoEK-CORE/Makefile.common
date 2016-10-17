@@ -1,0 +1,37 @@
+NETCDF_HOME = /home/labm/testlib/local
+INCLUDES        = $(SYSTEM_INCLUDES) -I./include/ -I. -I$(NETCDF_HOME)/include
+LDFLAGS         = $(SYSTEM_LDFLAGS) -L$(NETCDF_HOME)/lib -Wl,-R$(NETCDF_HOME)/lib/
+#LIBS            = $(NETCDF_HOME)/lib/libnetcdf.so
+#LIBS           += $(SYSTEM_LIBS)
+LIBS            = $(SYSTEM_LIBS)
+CFLAGS          = -O $(SYSTEM_CFLAGS) $(SYSTEM_HAVES) $(INCLUDES) 
+
+
+PICKING_TEST = 1
+ifdef PICKING_TEST
+	CFLAGS += -DPICKING_TEST
+endif
+
+TARGETS = TomoEK 
+
+SRC_DIR = ./src
+OBJ_DIR = ./obj
+
+SRCS = $(wildcard $(SRC_DIR)/*.c)  
+OBJS = $(patsubst $(SRC_DIR)/%.c, $(OBJ_DIR)/%.o, $(SRCS)) 
+
+all: $(TARGETS)
+
+$(TARGETS): $(OBJS)
+	$(CC) -g -o $@ $(filter %.o, $^) $(LDFLAGS) $(LIBS) 
+
+$(OBJ_DIR)/%.o:$(OBJ_DIR) $(SRC_DIR)/%.c
+	$(CC) $(CFLAGS) -o $@ -c $(filter %.c, $^) 
+
+# clean
+clean_objs :
+	rm -rf ./obj/*
+
+clean: 
+	rm -f $(TARGETS)
+	rm -rf ./obj/*

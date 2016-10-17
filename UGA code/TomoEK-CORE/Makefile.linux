@@ -1,0 +1,11 @@
+CC = gcc
+
+# System specific additional libraries, include paths, etc
+SYSTEM_CFLAGS   = -fPIC -w -Wcast-align -pthread 
+SYSTEM_HAVES    = -DLINUX -DUNIX -DECN_SUPPORT -DHAVE_GETLOGIN -D_FILE_OFFSET_BITS=64 -DHAVE_LOCKF -DHAVE_OLD_SIGNALHANDLER -DHAVE_DIRFD -DHAVE_ASSERT
+
+SYSTEM_LDFLAGS = -L ./lib/linux
+SYSTEM_LIBS     = -ldl -lm -lpthread -lnetcdf -lhdf5_hl -lhdf5 -lz
+#-lhdf5_hl -lhdf5 -ldl -lm -lz
+
+include Makefile.common

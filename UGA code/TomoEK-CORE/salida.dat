@@ -1,0 +1,3485 @@
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 249_event_1.dat
+GMT Script[2] = -G249_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 249_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 249_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 249_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G249_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 249_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 249_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 327_event_1.dat
+GMT Script[2] = -G327_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 327_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 327_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 327_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G327_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 327_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 327_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 541_event_1.dat
+GMT Script[2] = -G541_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 541_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 541_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 541_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G541_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 541_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 541_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 542_event_1.dat
+GMT Script[2] = -G542_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 542_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 542_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 542_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G542_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 542_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 542_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 543_event_1.dat
+GMT Script[2] = -G543_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 543_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 543_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 543_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G543_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 543_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 543_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 544_event_1.dat
+GMT Script[2] = -G544_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 544_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 544_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 544_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G544_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 544_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 544_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 545_event_1.dat
+GMT Script[2] = -G545_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 545_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 545_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 545_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G545_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 545_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 545_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 546_event_1.dat
+GMT Script[2] = -G546_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 546_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 546_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 546_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G546_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 546_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 546_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 581_event_1.dat
+GMT Script[2] = -G581_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 581_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 581_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 581_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G581_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 581_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 581_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 582_event_1.dat
+GMT Script[2] = -G582_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 582_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 582_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 582_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G582_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 582_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 582_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 583_event_1.dat
+GMT Script[2] = -G583_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 583_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 583_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 583_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G583_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 583_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 583_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 584_event_1.dat
+GMT Script[2] = -G584_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 584_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 584_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 584_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G584_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 584_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 584_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 585_event_1.dat
+GMT Script[2] = -G585_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 585_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 585_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 585_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G585_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 585_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 585_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 586_event_1.dat
+GMT Script[2] = -G586_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 586_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 586_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 586_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G586_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 586_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 586_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 620_event_1.dat
+GMT Script[2] = -G620_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 620_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 620_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 620_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G620_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 620_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 620_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 621_event_1.dat
+GMT Script[2] = -G621_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 621_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 621_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 621_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G621_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 621_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 621_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 622_event_1.dat
+GMT Script[2] = -G622_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 622_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 622_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 622_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G622_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 622_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 622_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 623_event_1.dat
+GMT Script[2] = -G623_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 623_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 623_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 623_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G623_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 623_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 623_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 624_event_1.dat
+GMT Script[2] = -G624_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 624_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 624_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 624_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G624_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 624_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 624_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 625_event_1.dat
+GMT Script[2] = -G625_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 625_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 625_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 625_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G625_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 625_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 625_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 662_event_1.dat
+GMT Script[2] = -G662_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 662_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 662_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 662_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G662_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 662_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 662_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 663_event_1.dat
+GMT Script[2] = -G663_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 663_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 663_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 663_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G663_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 663_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 663_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 664_event_1.dat
+GMT Script[2] = -G664_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 664_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 664_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 664_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G664_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 664_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 664_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 665_event_1.dat
+GMT Script[2] = -G665_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 665_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 665_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 665_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G665_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 665_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 665_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 666_event_1.dat
+GMT Script[2] = -G666_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 666_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 666_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 666_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G666_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 666_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 666_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 667_event_1.dat
+GMT Script[2] = -G667_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 667_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 667_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 667_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G667_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 667_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 667_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 710_event_1.dat
+GMT Script[2] = -G710_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 710_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 710_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 710_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G710_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 710_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 710_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 711_event_1.dat
+GMT Script[2] = -G711_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 711_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 711_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 711_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G711_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 711_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 711_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 712_event_1.dat
+GMT Script[2] = -G712_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 712_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 712_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 712_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G712_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 712_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 712_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 713_event_1.dat
+GMT Script[2] = -G713_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 713_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 713_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 713_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G713_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 713_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 713_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 714_event_1.dat
+GMT Script[2] = -G714_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 714_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 714_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 714_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G714_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 714_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 714_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 715_event_1.dat
+GMT Script[2] = -G715_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 715_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 715_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 715_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G715_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 715_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 715_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 753_event_1.dat
+GMT Script[2] = -G753_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 753_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 753_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 753_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G753_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 753_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 753_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 754_event_1.dat
+GMT Script[2] = -G754_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 754_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 754_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 754_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G754_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 754_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 754_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 755_event_1.dat
+GMT Script[2] = -G755_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 755_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 755_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 755_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G755_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 755_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 755_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 756_event_1.dat
+GMT Script[2] = -G756_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 756_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 756_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 756_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G756_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 756_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 756_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 757_event_1.dat
+GMT Script[2] = -G757_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 757_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 757_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 757_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G757_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 757_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 757_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 792_event_1.dat
+GMT Script[2] = -G792_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 792_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 792_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 792_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G792_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 792_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 792_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 793_event_1.dat
+GMT Script[2] = -G793_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 793_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 793_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 793_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G793_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 793_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 793_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 794_event_1.dat
+GMT Script[2] = -G794_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 794_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 794_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 794_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G794_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 794_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 794_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 795_event_1.dat
+GMT Script[2] = -G795_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 795_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 795_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 795_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G795_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 795_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 795_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 796_event_1.dat
+GMT Script[2] = -G796_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 796_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 796_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 796_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G796_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 796_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 796_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 797_event_1.dat
+GMT Script[2] = -G797_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 797_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 797_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 797_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G797_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 797_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 797_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 798_event_1.dat
+GMT Script[2] = -G798_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 798_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 798_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 798_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G798_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 798_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 798_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 833_event_1.dat
+GMT Script[2] = -G833_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 833_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 833_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 833_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G833_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 833_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 833_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 834_event_1.dat
+GMT Script[2] = -G834_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 834_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 834_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 834_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G834_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 834_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 834_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 835_event_1.dat
+GMT Script[2] = -G835_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 835_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 835_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 835_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G835_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 835_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 835_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 836_event_1.dat
+GMT Script[2] = -G836_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 836_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 836_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 836_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G836_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 836_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 836_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 837_event_1.dat
+GMT Script[2] = -G837_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 837_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 837_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 837_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G837_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 837_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 837_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 870_event_1.dat
+GMT Script[2] = -G870_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 870_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 870_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 870_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G870_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 870_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 870_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 871_event_1.dat
+GMT Script[2] = -G871_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 871_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 871_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 871_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G871_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 871_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 871_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 872_event_1.dat
+GMT Script[2] = -G872_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 872_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 872_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 872_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G872_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 872_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 872_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 873_event_1.dat
+GMT Script[2] = -G873_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 873_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 873_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 873_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G873_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 873_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 873_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 874_event_1.dat
+GMT Script[2] = -G874_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 874_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 874_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 874_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G874_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 874_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 874_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 875_event_1.dat
+GMT Script[2] = -G875_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 875_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 875_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 875_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G875_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 875_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 875_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 876_event_1.dat
+GMT Script[2] = -G876_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 876_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 876_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 876_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G876_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 876_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 876_event_1.dat_0.2.grd
+I am an if
+GMT Script[0] = surface
+GMT Script[1] = 917_event_1.dat
+GMT Script[2] = -G917_event_1.dat_0.0.grd
+GMT Script[3] = -I0.2
+GMT Script[4] = -R235/255/25/50
+GMT Script[5] = 
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 917_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 917_event_1.dat_0.0.grd
+GMT Script[0] = surface
+GMT Script[1] = 917_event_1.dat
+GMT Script[2] = -T0.2
+GMT Script[3] = -G917_event_1.dat_0.2.grd
+GMT Script[4] = -I0.2
+GMT Script[5] = -R235/255/25/50
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Successfully created a new GMT Grid container
+Reading Data Table from file 917_event_1.dat
+Successfully added data array to previously registered GMT Grid container
+GMTAPI_Begin_IO: Output resource access is now enabled [container]
+GMTAPI_Export_Grid: Passed ID = 2 and mode = 0
+Writing grid to file 917_event_1.dat_0.2.grd
+GRDFILE NAME: -------------->>>>>> 249_event_1.dat_0.0.grd, 249_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 249_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 249_event_1.dat_0.2.grd, 249_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 249_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 327_event_1.dat_0.0.grd, 327_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 327_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 327_event_1.dat_0.2.grd, 327_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 327_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 541_event_1.dat_0.0.grd, 541_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 541_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 541_event_1.dat_0.2.grd, 541_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 541_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 542_event_1.dat_0.0.grd, 542_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 542_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 542_event_1.dat_0.2.grd, 542_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 542_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 543_event_1.dat_0.0.grd, 543_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 543_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 543_event_1.dat_0.2.grd, 543_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 543_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 544_event_1.dat_0.0.grd, 544_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 544_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 544_event_1.dat_0.2.grd, 544_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 544_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 545_event_1.dat_0.0.grd, 545_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 545_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 545_event_1.dat_0.2.grd, 545_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 545_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 546_event_1.dat_0.0.grd, 546_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 546_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 546_event_1.dat_0.2.grd, 546_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 546_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 581_event_1.dat_0.0.grd, 581_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 581_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 581_event_1.dat_0.2.grd, 581_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 581_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 582_event_1.dat_0.0.grd, 582_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 582_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 582_event_1.dat_0.2.grd, 582_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 582_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 583_event_1.dat_0.0.grd, 583_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 583_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 583_event_1.dat_0.2.grd, 583_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 583_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 584_event_1.dat_0.0.grd, 584_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 584_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 584_event_1.dat_0.2.grd, 584_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 584_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 585_event_1.dat_0.0.grd, 585_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 585_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 585_event_1.dat_0.2.grd, 585_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 585_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 586_event_1.dat_0.0.grd, 586_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 586_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 586_event_1.dat_0.2.grd, 586_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 586_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 620_event_1.dat_0.0.grd, 620_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 620_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 620_event_1.dat_0.2.grd, 620_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 620_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 621_event_1.dat_0.0.grd, 621_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 621_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 621_event_1.dat_0.2.grd, 621_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 621_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 622_event_1.dat_0.0.grd, 622_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 622_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 622_event_1.dat_0.2.grd, 622_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 622_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 623_event_1.dat_0.0.grd, 623_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 623_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 623_event_1.dat_0.2.grd, 623_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 623_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 624_event_1.dat_0.0.grd, 624_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 624_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 624_event_1.dat_0.2.grd, 624_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 624_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 625_event_1.dat_0.0.grd, 625_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 625_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 625_event_1.dat_0.2.grd, 625_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 625_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 662_event_1.dat_0.0.grd, 662_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 662_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 662_event_1.dat_0.2.grd, 662_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 662_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 663_event_1.dat_0.0.grd, 663_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 663_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 663_event_1.dat_0.2.grd, 663_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 663_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 664_event_1.dat_0.0.grd, 664_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 664_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 664_event_1.dat_0.2.grd, 664_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 664_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 665_event_1.dat_0.0.grd, 665_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 665_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 665_event_1.dat_0.2.grd, 665_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 665_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 666_event_1.dat_0.0.grd, 666_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 666_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 666_event_1.dat_0.2.grd, 666_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 666_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 667_event_1.dat_0.0.grd, 667_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 667_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 667_event_1.dat_0.2.grd, 667_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 667_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 710_event_1.dat_0.0.grd, 710_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 710_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 710_event_1.dat_0.2.grd, 710_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 710_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 711_event_1.dat_0.0.grd, 711_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 711_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 711_event_1.dat_0.2.grd, 711_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 711_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 712_event_1.dat_0.0.grd, 712_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 712_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 712_event_1.dat_0.2.grd, 712_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 712_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 713_event_1.dat_0.0.grd, 713_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 713_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 713_event_1.dat_0.2.grd, 713_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 713_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 714_event_1.dat_0.0.grd, 714_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 714_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 714_event_1.dat_0.2.grd, 714_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 714_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 715_event_1.dat_0.0.grd, 715_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 715_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 715_event_1.dat_0.2.grd, 715_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 715_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 753_event_1.dat_0.0.grd, 753_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 753_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 753_event_1.dat_0.2.grd, 753_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 753_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 754_event_1.dat_0.0.grd, 754_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 754_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 754_event_1.dat_0.2.grd, 754_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 754_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 755_event_1.dat_0.0.grd, 755_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 755_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 755_event_1.dat_0.2.grd, 755_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 755_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 756_event_1.dat_0.0.grd, 756_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 756_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 756_event_1.dat_0.2.grd, 756_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 756_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 757_event_1.dat_0.0.grd, 757_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 757_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 757_event_1.dat_0.2.grd, 757_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 757_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 792_event_1.dat_0.0.grd, 792_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 792_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 792_event_1.dat_0.2.grd, 792_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 792_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 793_event_1.dat_0.0.grd, 793_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 793_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 793_event_1.dat_0.2.grd, 793_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 793_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 794_event_1.dat_0.0.grd, 794_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 794_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 794_event_1.dat_0.2.grd, 794_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 794_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 795_event_1.dat_0.0.grd, 795_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 795_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 795_event_1.dat_0.2.grd, 795_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 795_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 796_event_1.dat_0.0.grd, 796_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 796_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 796_event_1.dat_0.2.grd, 796_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 796_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 797_event_1.dat_0.0.grd, 797_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 797_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 797_event_1.dat_0.2.grd, 797_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 797_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 798_event_1.dat_0.0.grd, 798_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 798_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 798_event_1.dat_0.2.grd, 798_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 798_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 833_event_1.dat_0.0.grd, 833_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 833_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 833_event_1.dat_0.2.grd, 833_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 833_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 834_event_1.dat_0.0.grd, 834_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 834_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 834_event_1.dat_0.2.grd, 834_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 834_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 835_event_1.dat_0.0.grd, 835_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 835_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 835_event_1.dat_0.2.grd, 835_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 835_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 836_event_1.dat_0.0.grd, 836_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 836_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 836_event_1.dat_0.2.grd, 836_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 836_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 837_event_1.dat_0.0.grd, 837_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 837_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 837_event_1.dat_0.2.grd, 837_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 837_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 870_event_1.dat_0.0.grd, 870_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 870_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 870_event_1.dat_0.2.grd, 870_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 870_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 871_event_1.dat_0.0.grd, 871_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 871_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 871_event_1.dat_0.2.grd, 871_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 871_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 872_event_1.dat_0.0.grd, 872_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 872_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 872_event_1.dat_0.2.grd, 872_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 872_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 873_event_1.dat_0.0.grd, 873_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 873_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 873_event_1.dat_0.2.grd, 873_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 873_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 874_event_1.dat_0.0.grd, 874_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 874_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 874_event_1.dat_0.2.grd, 874_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 874_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 875_event_1.dat_0.0.grd, 875_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 875_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 875_event_1.dat_0.2.grd, 875_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 875_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 876_event_1.dat_0.0.grd, 876_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 876_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 876_event_1.dat_0.2.grd, 876_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 876_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 917_event_1.dat_0.0.grd, 917_event_1.dat, 0
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 917_event_1.dat.HD_0.0
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+GRDFILE NAME: -------------->>>>>> 917_event_1.dat_0.2.grd, 917_event_1.dat, 2
+file : 235/255/25/50 not found !!  mode 4, file path /home/labm/TomoEK/data/235/255/25/50 
+GMTAPI_Init_Export: Added 1 new destination
+Writing Data Table to file 917_event_1.dat.HD_0.2
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+GMTAPI_Begin_IO: Input resource access is now enabled [container]
+Grid is Cartesian
+Chosen boundary condition for all edges: natural
+Set boundary condition for left   edge: natural
+Set boundary condition for right  edge: natural
+Set boundary condition for bottom edge: natural
+Set boundary condition for top    edge: natural
+GMTAPI_Init_Export: Added stdout to registered destinations
+                                                           12726 values extracted
+NOMBRE:..... /home/labm/TomoEK/data/slow_azi_249_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_327_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_541_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_542_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_543_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_544_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_545_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_546_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_581_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_582_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_583_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_584_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_585_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_586_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_620_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_621_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_622_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_623_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_624_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_625_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_662_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_663_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_664_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_665_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_666_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_667_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_710_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_711_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_712_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_713_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_714_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_715_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_753_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_754_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_755_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_756_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_757_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_792_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_793_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_794_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_795_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_796_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_797_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_798_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_833_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_834_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_835_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_836_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_837_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_870_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_871_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_872_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_873_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_874_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_875_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_876_event_1.dat.HDNOMBRE:..... /home/labm/TomoEK/data/slow_azi_917_event_1.dat.HD
+
+FILE NAME_ANI: /home/labm/TomoEK/data/map.ani
+
+FILE NAME_ANI_N (OUTPUT): /home/labm/TomoEK/data/map_ani_n
+
+FINAL READING FROM: /home/labm/TomoEK/data/map.iso
+Nombre del archivo: /home/labm/TomoEK/data/map.tmo

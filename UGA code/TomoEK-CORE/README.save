@@ -1,0 +1,58 @@
+try sudo chmod 777 configure then ./configure Source code for all necessary library are in lib directory.
+$ cd lib
+Install zlib library
+----------------------
+Extract zlib-1.2.8.tar.gz
+$ cd zlib-1.2.8/
+$ ./configure --prefix=/path/to/local
+
+Example: ./configure --prefix=/home/nishita/testlib/local
+
+$ make -j4
+$ make install
+
+Install HDF5 library
+----------------------
+Extract hdf5-1.8.13.tar.gz
+$ cd hdf5-1.8.13/
+$ ./configure --with-zlib=/path/to/local --prefix=/path/to/local
+
+Example: ./configure --with-zlib=/home/nishita/testlib/local --prefix=/home/nishita/testlib/local
+
+$ make -j4
+$ make install
+
+Install netCDF library
+----------------------
+Extract cd netcdf-c-4.3.3.1.tar.gz
+$ cd netcdf-c-4.3.3.1/
+$ CPPFLAGS=-I/path/to/include LDFLAGS=-Lpath/to/lib ./configure --prefix=path/to/local
+
+Example : CPPFLAGS=-I/home/nishita/testlib/local/include LDFLAGS=-L/home/nishita/testlib/local/lib ./configure --prefix=/home/nishita/testlib/local
+
+$ make 
+$ make check
+$ make install
+
+Build code
+----------------------
+$ cd TomoEK/
+
+In Makefile.common file, set NETCDF_HOME with path to netcdf library. For example: NETCDF_HOME = /home/nishita/testlib/local
+
+$make -f Makefile.linux
+
+There are a sample arrivalTime.dat and station.dat in data directory.
+Example of arrivaTime.dat file:
+Event 1
+29 1415568902.090000 
+..
+Example of station.dat file:
+lon lat station
+250 35 29
+....
+
+To run code
+$./TomoEK arrivalTime.dat station.dat
+
+All output file will be generated in data directory. Final output file is map.tmo

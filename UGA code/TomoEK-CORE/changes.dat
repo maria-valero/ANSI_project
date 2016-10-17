@@ -1,0 +1,17 @@
+
+Changes made on January 27/2016
+1. I changed GMT_BUFSIZ variable for BUFFSIZE_NEW to fix the problem with the path name.
+2. It helps to use files with names like 1000_event_1.dat
+3. I changed in the function call_surface() and call_grd2xyz() the size of 
+
+	//char staEvent[GMT_LEN16];
+	//char grdfile [GMT_LEN32];
+	//char outfile [GMT_LEN64];
+
+by
+
+	char staEvent[500];
+	char grdfile [500];
+	char outfile [500];
+
+4. Initialize all these variables in ""
