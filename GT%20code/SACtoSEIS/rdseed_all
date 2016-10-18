@@ -1,0 +1,15 @@
+#!/bin/bash
+
+targetfile="1B_stations.txt"
+
+awk  $targetfile |\
+while read filename
+do
+	jday=078
+	jhour=17
+	mkdir $jday
+	cd $jday
+	mkdir $jhour
+	cd $jhour
+	rdseed -d -f ../../$filename
+done

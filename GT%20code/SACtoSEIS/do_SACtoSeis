@@ -1,0 +1,46 @@
+#!/bin/bash
+
+folder="../Data"
+targetfile="1B_stations.txt"
+
+awk '{print $1,$2,$3}' $targetfile |\
+while read stname lat lon
+do
+	jday=78
+	while [ $jday -le 78 ]
+	do
+		if [ $jday -eq 78 ]
+		then
+			hour=19
+			endt=21
+		elif [ $jday -eq 88 ]
+		then
+			hour=0
+			endt=23
+		else
+			hour=0
+			endt=23
+		fi
+		while [ $hour -le $endt ]
+		do
+	       	        ffile=`printf "%s/%03d/%02d" $folder $jday $hour`
+		        if [ -f $ffile/*.$stname.*.SAC ]
+		        then
+			     sacfile=`ls $ffile/*.$stname.*.SAC`
+			     dirname=`echo "${stname}-0000"`
+				
+			     if [ -d $dirname ]
+			     then
+			 	  ./cutfile $sacfile
+				  mv *.seis $dirname/
+			     else
+				  mkdir $dirname
+				  ./cutfile $sacfile
+				  mv *.seis $dirname/
+			     fi
+		        fi
+			hour=$((hour+1))
+		done
+		jday=$((jday+1))
+	done	
+done

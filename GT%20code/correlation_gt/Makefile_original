@@ -1,0 +1,7 @@
+CC = gcc
+CFLAGS = -g
+CFLAGS = -pg
+CFLAGS = -O3
+
+correlate: correlate.o filtersubs.o
+	gcc ${CFLAGS} -o correlate correlate.o filtersubs.o -lpthread -lm

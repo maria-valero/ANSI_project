@@ -1,0 +1,26 @@
+---------------------------------------
+Begin PBS Prologue Tue May  3 18:46:52 EDT 2016
+Job ID:     11695481.shared-sched.pace.gatech.edu
+User ID:    hyang363
+Job name:   cse6220-nqueens
+Queue:      force-6
+End PBS Prologue Tue May  3 18:46:52 EDT 2016
+---------------------------------------
+load data 20140325090000
+./data
+ns= 2
+prepare data
+correlate data ns=2
+outputing CC
+---------------------------------------
+Begin PBS Epilogue Tue May  3 18:47:14 EDT 2016
+Job ID:     11695481.shared-sched.pace.gatech.edu
+User ID:    hyang363
+Job name:   cse6220-nqueens
+Resources:  neednodes=1,nodes=1,walltime=00:05:00
+Rsrc Used:  cput=00:00:00,energy_used=0,mem=0kb,vmem=0kb,walltime=00:00:22
+Queue:      force-6
+Nodes:     
+iw-h31-12.pace.gatech.edu
+End PBS Epilogue Tue May  3 18:47:14 EDT 2016
+---------------------------------------

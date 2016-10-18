@@ -1,0 +1,10 @@
+#!/bin/bash
+
+timefile="1B_timelist_323.txt"
+
+awk '{print $1}' $timefile |\
+while read timename
+do
+	echo $timename > timelist.txt
+    ./correlate timelist.txt 1616 1617 stationlist.txt 10000 ../SACtoSEIS
+done
