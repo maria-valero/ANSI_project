@@ -1,0 +1,7 @@
+CC = gcc
+CFLAGS = -g
+CFLAGS = -pg
+CFLAGS = -O3
+
+seis2txt: seis2txt.o filtersubs.o
+	gcc ${CFLAGS} -o seis2txt seis2txt.o filtersubs.o -lpthread -lm

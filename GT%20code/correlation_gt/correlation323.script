@@ -1,0 +1,17 @@
+#!/bin/sh
+#PBS -q force-6
+#PBS -l walltime=90:00:00:00
+#PBS -l nodes=4:ppn=4
+#PBS -l mem=8gb
+#PBS -N correlation_323
+#PBS -j oe
+#PBS -o myjob.out
+#PBS -m abe
+#PBS -M yanghongao@gmail.com
+
+
+# change to our project directory
+cd /nv/hp16/hyang363/scratch/correlation
+
+# loop over number of processors (our 4 nodes job can run up to 48)
+./do_correlate_all_323
